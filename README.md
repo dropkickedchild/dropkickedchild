@@ -1,0 +1,3 @@
+# dropkickedchild
+
+- Hobby fullstack developer
